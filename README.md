@@ -1,6 +1,10 @@
 NSString-OVSSTimeAdditions
 ==========================
 
+# Warning: This project is no longer supported and contains known bugs. It should not be used in shipping software
+
+==========================
+
 A category on NSString to properly format a duration in hours, minutes, and seconds.
 
 Usage
